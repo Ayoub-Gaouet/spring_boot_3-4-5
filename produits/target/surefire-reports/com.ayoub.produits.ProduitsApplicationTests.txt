@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: com.ayoub.produits.ProduitsApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 7.515 s <<< FAILURE! - in com.ayoub.produits.ProduitsApplicationTests
+testFindProduit  Time elapsed: 0.076 s  <<< ERROR!
+java.util.NoSuchElementException: No value present
+	at com.ayoub.produits.ProduitsApplicationTests.testFindProduit(ProduitsApplicationTests.java:23)
+
+testUpdateProduit  Time elapsed: 0.008 s  <<< ERROR!
+java.util.NoSuchElementException: No value present
+	at com.ayoub.produits.ProduitsApplicationTests.testUpdateProduit(ProduitsApplicationTests.java:29)
+
